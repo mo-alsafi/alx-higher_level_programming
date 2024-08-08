@@ -1,1 +1,2 @@
-web Query
+JavaScript - Web jQuery
+
